@@ -1,0 +1,74 @@
+[
+    {
+        "imageName": "i1",
+        "title": "Card 1",
+        "handsetCols":3,
+        "handsetRows":1,
+        "webCols":2,
+        "webRows":1
+    },
+    {
+        "imageName": "i2",
+        "title": "Card 2",
+        "handsetCols":1,
+        "handsetRows":1,
+        "webCols":1,
+        "webRows":1
+    },
+    {
+        "imageName": "i3",
+        "title": "Card 3",
+        "handsetCols":1,
+        "handsetRows":1,
+        "webCols":1,
+        "webRows":1
+    },
+    {
+        "imageName": "i4",
+        "title": "Card 4",
+        "handsetCols":1,
+        "handsetRows":1,
+        "webCols":2,
+        "webRows":1
+    },
+    {
+        "imageName": "i5",
+        "title": "Card 5",
+        "handsetCols":3,
+        "handsetRows":1,
+        "webCols":3,
+        "webRows":2
+    },
+    {
+        "imageName": "i6",
+        "title": "Card 6",
+        "handsetCols":1,
+        "handsetRows":1,
+        "webCols":1,
+        "webRows":2
+    },
+    {
+        "imageName": "i7",
+        "title": "Card 7",
+        "handsetCols":1,
+        "handsetRows":1,
+        "webCols":1,
+        "webRows":1
+    },
+    {
+        "imageName": "i8",
+        "title": "Card 8",
+        "handsetCols":1,
+        "handsetRows":1,
+        "webCols":1,
+        "webRows":2
+    },
+    {
+        "imageName": "i9",
+        "title": "Card 9",
+        "handsetCols":3,
+        "handsetRows":1,
+        "webCols":1,
+        "webRows":1
+    }
+]
